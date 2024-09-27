@@ -8,7 +8,7 @@ const HomePage: React.FC = () => {
     <div className="home-container">
       <h1 className="home-title">MEDCAP</h1>
       <p className="home-subtitle">Format and Store, Simulate and Analyze MRI Instrument Data</p>
-      
+
       <div className="home-buttons">
         <Link to="/retrieve">
           <button className="button primary">Retrieve</button>
@@ -21,8 +21,8 @@ const HomePage: React.FC = () => {
       </div>
 
       <img
-        src="mri_machine_image_url" 
-        alt="MRI Machine" 
+        src="mri_machine_image_url"
+        alt="MRI Machine"
         className="home-image"
       />
     </div>
