@@ -1,7 +1,10 @@
 {
-  "name": "vite-project",
+  "name": "medcap-frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Frontend for the MEDCAP MRI Instrument Data Web Application",
+  "author": "Benjamin Yoon",
+  "license": "MIT | Penn",
   "type": "module",
   "scripts": {
     "dev": "vite",
